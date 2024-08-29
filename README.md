@@ -2,6 +2,8 @@
 
 This repository provides an example of fine-tuning OpenAI's GPT-4o-mini model for classifying customer service support tickets. Through fine-tuning, we are able to increase the classification accuracy from 69% to 94%.
 
+<b>Interested in becoming a fine-tuning expert? Sign-up for [my course](https://maven.com/brainiac-labs/fine-tuning-open-source-llms).</b>
+
 ## Prerequisites
 
 - Python 3 installed on your system
@@ -29,4 +31,4 @@ This repository provides an example of fine-tuning OpenAI's GPT-4o-mini model fo
 
 1. This example is designed to work with OpenAI's GPT-4o-mini model but can be adapted for other models.
 
-2. For more information on fine-tuning models, refer to OpenAI's documentation (https://platform.openai.com/docs/guides/fine-tuning).
+2. For more information on fine-tuning models, refer to OpenAI's [documentation](https://platform.openai.com/docs/guides/fine-tuning).
